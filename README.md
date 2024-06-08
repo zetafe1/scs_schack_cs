@@ -1,4 +1,4 @@
-# Schack near Bluewater Marsh
+# Shack near Bluewater Marsh
 
 Just Drag & Drop in any streaming resource
 
